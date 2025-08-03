@@ -3,14 +3,14 @@
 body {
   background: #552e5a; 
   font-family: "Syne Mono", monospace;
+  font-size: 16px;
   font-weight: 400;
   font-style: normal;
-  color: #ecffa3;
+  color: #f6e198; 
 }	
 pre {
-color: #cf7979; 
+  color: #cf7979; 
 }
-
-p { 
-color: #f6e198; 
+a {
+  color: #ecffa3;
 }
