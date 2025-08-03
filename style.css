@@ -7,14 +7,10 @@ body {
   font-style: normal;
   color: #ecffa3;
 }	
-.second-color { 
-	background: #cf7979; 
+pre {
+color: #cf7979; 
 }
 
-.third-color { 
-	background: #f6e198; 
-}
-
-.fourth-color { 
-	background: #ecffa3; 
+p { 
+color: #f6e198; 
 }
