@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body {
+  background: #552e5a; 
+  font-family: "Syne Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  color: #ecffa3;
+}	
+.second-color { 
+	background: #cf7979; 
+}
+
+.third-color { 
+	background: #f6e198; 
+}
+
+.fourth-color { 
+	background: #ecffa3; 
+}
